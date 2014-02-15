@@ -24,6 +24,7 @@
     "target_path": "kernel/samsung/hlte",
     "branch":      "wip"
   },
+  {
     "repository": "SlimRoms/hardware_samsung",
     "target_path": "hardware/samsung",
     "branch":      "kk4.4"
